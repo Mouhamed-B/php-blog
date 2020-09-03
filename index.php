@@ -34,4 +34,4 @@ require 'header.php';
   <hr>
 
   <!-- Footer -->
-  <?php 
+  <?php require 'footer.php'?>

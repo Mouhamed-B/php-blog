@@ -1,3 +1,10 @@
+<?php
+$title = "Clean Blog - Start Bootstrap Theme";
+$img = "home-bg.jpg";
+$heading = "Man must explore, and this is exploration at its greatest";
+$subheading = "Problems look mighty small from 150 miles up";
+require 'header.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -36,13 +43,13 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="apropos.php">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="post.html">Sample Post</a>
+            <a class="nav-link" href="article.html">Sample Post</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.html">Contact</a>
@@ -59,8 +66,8 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-heading">
-            <h1>Man must explore, and this is exploration at its greatest</h1>
-            <h2 class="subheading">Problems look mighty small from 150 miles up</h2>
+            <h1></h1>
+            <h2 class="subheading"></h2>
             <span class="meta">Posted by
               <a href="#">Start Bootstrap</a>
               on August 24, 2019</span>

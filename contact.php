@@ -3,6 +3,7 @@ $title = "Clean Blog - Start Bootstrap Theme";
 $img = "contact-bg.jpg";
 $heading = "Contact Me";
 $subheading = "Have questions? I have answers.";
+require 'footer.php'
 ?>
   <!-- Main Content -->
   <div class="container">
