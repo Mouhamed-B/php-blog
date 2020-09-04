@@ -3,7 +3,7 @@ $title = "Clean Blog - Start Bootstrap Theme";
 $img = "contact-bg.jpg";
 $heading = "Contact Me";
 $subheading = "Have questions? I have answers.";
-require 'footer.php'
+require 'footer.html'
 ?>
   <!-- Main Content -->
   <div class="container">
@@ -55,4 +55,4 @@ require 'footer.php'
   <hr>
 
   <!-- Footer -->
-  <?php 
+  <?php require 'footer.html'?>
